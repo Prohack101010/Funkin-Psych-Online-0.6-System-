@@ -2,8 +2,9 @@
   "dependencies": [
     {
       "name": "lime",
-      "type": "haxelib",
-      "version": "8.0.2"
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/PsychPorting/lime-0.6.3.git"
     },
     {
       "name": "openfl",
@@ -32,8 +33,9 @@
     },
     {
       "name": "hxcpp",
-      "type": "haxelib",
-      "version": "4.3.2"
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/mcagabe19-stuff/hxcpp.git"
     },
     {
       "name": "tjson",
@@ -60,14 +62,14 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/Aidan63/linc_discord-rpc"
+      "url": "https://github.com/PsychPorting/linc_discord-rpc-0.6.3""
     },
     {
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/superpowers04/linc_luajit"
+      "url": "https://github.com/PsychPorting/linc_luajit-0.6.3.git"
     },
     {
       "name": "colyseus",
